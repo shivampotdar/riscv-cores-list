@@ -77,6 +77,7 @@ E7 | SiFive | [Website](https://www.sifive.com/cores/e76) | 1.11 | RV32I(E)MAFDC
 S7 | SiFive | [Website](https://www.sifive.com/cores/s76) | 1.11 | RV64GC 2.2 | Verilog | SiFive commercial license
 U7 | SiFive | [Website](https://www.sifive.com/cores/u74) | 1.11 | RV64GC 2.2 | Verilog | SiFive commercial license
 Kronos | Sonal Pinto | [GitHub](https://github.com/SonalPinto/kronos) | | RV32I | SystemVerilog | Apache 2.0
+WARP-V | Steve Hoover, Redwood EDA | [GitHub](https://github.com/stevehoover/warp-v) |  | RV32IMF | TL-Verilog | BSD
 
 ## SoC platforms
 
@@ -106,6 +107,7 @@ ESP | SLD Group, Columbia University | [Website](https://esp.cs.columbia.edu), [
 Chipyard | UCB BAR | [GitHub](https://github.com/ucb-bar/chipyard),[Documentation](https://chipyard.readthedocs.io/en/latest/) | Rocket, BOOM | BSD
 PQSoC | PQShield | [Website](https://pqsoc.com) | Pluto | PQShield Commercial License
 KRZ | Sonal Pinto | [GitHub](https://github.com/SonalPinto/kronos) | Kronos | Apache 2.0
+
 
 ## SoCs
 
